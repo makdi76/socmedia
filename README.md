@@ -1,1 +1,1 @@
-This a test 
+This is server helps to work with social networks in Genesys contact center.
